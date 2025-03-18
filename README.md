@@ -7,10 +7,10 @@ Para isso, segui as orientações para o case, disponíveis no github, utilizand
 
 Como estou usando o Windows 11, a sequência de passos seguida foi a seguinte:
 
-**1-** Abra o painel de controle do seu computador;</n>
-**2-** Clique em Sistema, e novamente em sistema;</n>
-**3-** Na janela aberta, vá até: Configurações avançadas de sistema;</n>
-**4-** Clique em: Variáveis de Ambiente;</n>
-**5-** Clique em Novo para criar uma nova variável;</n>
-**6-** Chame-a de GEMINI_API_KEY;</n>
+**1-** Abra o painel de controle do seu computador;<br>
+**2-** Clique em Sistema, e novamente em sistema;<br>
+**3-** Na janela aberta, vá até: Configurações avançadas de sistema;<br>
+**4-** Clique em: Variáveis de Ambiente;<br>
+**5-** Clique em Novo para criar uma nova variável;<br>
+**6-** Chame-a de GEMINI_API_KEY;<br>
 **7-** Cole no campo "Valor da Variável" a sua chave do Google AI Studio;
